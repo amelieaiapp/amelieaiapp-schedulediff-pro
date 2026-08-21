@@ -1,0 +1,54 @@
+{
+  "name": "ScheduleDiff Pro XER XML",
+  "short_name": "ScheduleDiff",
+  "description": "Compare Primavera P6 XER and Microsoft Project / Asta XML programme revisions offline. Descriptive change register, DCMA 14-point, Excel export. Arabic (Windows-1256) and Cyrillic (Windows-1251) names preserved. Gulf and Eastern European calendars supported. Data never leaves your device.",
+  "version": "2.11.0",
+  "id": "https://amelieaiapp.github.io/schedulediff-pro/",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f3a6b",
+  "theme_color": "#0f3a6b",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "windows",
+      "url": "https://apps.microsoft.com/detail/9NHDLSXGWXTJ",
+      "id": "9NHDLSXGWXTJ"
+    }
+  ],
+  "prefer_related_applications": false
+}
